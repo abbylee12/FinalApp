@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="40dp"
+        tools:context=".player15Info">
+
+        <ImageView
+            android:id="@+id/imageView16"
+            android:layout_width="115dp"
+            android:layout_height="146dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0"
+            app:srcCompat="@drawable/cc" />
+
+        <TextView
+            android:id="@+id/textView74"
+            android:layout_width="298dp"
+            android:layout_height="858dp"
+            android:layout_marginTop="20dp"
+            android:text="This was Sierra Davis' first year at UC, and this is what she has to say about the University: 'I like UC because the people are different. Being from Utah and the west coast, there wasn’t a lot I was very excited about being here in West Virginia. It’s like right in the middle being on the east coast but like it’s still not on the east coast enough. But something I’ve learned to love is the hospitality and kindness of the people who live here. Getting hellos from people you have never seen is a normality. You get called baby and honey by all of the older woman. Though being away from home is really hard for me, UC isn’t short of kind people who are willing to talk and love you.'"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:gravity="center"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView16" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>
+

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="40dp"
+        tools:context=".player9Info">
+
+        <ImageView
+            android:id="@+id/imageView10"
+            android:layout_width="123dp"
+            android:layout_height="145dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0"
+            app:srcCompat="@drawable/kota" />
+
+        <TextView
+            android:id="@+id/textView35"
+            android:layout_width="290dp"
+            android:layout_height="476dp"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:text="This was Dakota Reeves third year at UC, and this is what she says about the University: 'I chose UC because of the good basketball program I was going to be brought into and the success we would have in these coming years. I love the small community and how close and friendly everyone is and how they really make it feel like a home.'"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView10"
+            app:layout_constraintVertical_bias="0.975" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="40dp"
+        tools:context=".player13Info">
+
+        <ImageView
+            android:id="@+id/imageView14"
+            android:layout_width="127dp"
+            android:layout_height="156dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0"
+            app:srcCompat="@drawable/riss" />
+
+        <TextView
+            android:id="@+id/textView72"
+            android:layout_width="291dp"
+            android:layout_height="446dp"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:text="This was Clarrissa Francis’ first year at UC, and this is what she says about the University: ‘I chose UC because I wanted an opportunity to excel in both sports and academics. I like it here because the professors actually care about you succeeding and our understanding about our life situations.’"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView14" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>

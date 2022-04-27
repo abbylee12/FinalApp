@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="text1">University of Charleston</string>
+    <string name="text2">Women\'s Basketball</string>
+    <string name="schedulebutton">Schedule</string>
+    <string name="rosterbutton">Roster</string>
+    <string name="playerinfobutton3">Player Info</string>
+
+
+    <string name="mecchamp">MEC Championship</string>
+    <string name="tourni">NCAA Tournament</string>
+
+    <string name="game1">November 13 vs Mercyhurst University - Away at 2:00 PM</string>
+    <string name="game2">November 14 vs California University of Pennsylvania - Away at 2:00 PM</string>
+    <string name="game3">November 17 vs Livingstone College - Away at 5:30 PM</string>
+    <string name="game4">November 20 vs Concord University - Home at 2:00 PM</string>
+    <string name="game5">November 23 vs Glenville State College - Away at 5:30 PM</string>
+    <string name="game6">November 27 vs Lincoln University (Pa.) - Home at 2:00 PM</string>
+    <string name="game7">December 1 vs Fairmont State University - Home at 5:30 PM</string>
+    <string name="game8">December 4 vs Frostburg State University - Away at 2:00 PM</string>
+    <string name="game9">December 8 vs West Liberty University - Away at 5:30 PM</string>
+    <string name="game10">December 13 vs Wheeling University - Home at 5:30 PM</string>
+    <string name="game11">January 10 vs Bluefield State College - Home at 5:30 PM</string>
+    <string name="game12">January 15 vs Notre Dame College (Ohio) - Away at 2:00 PM</string>
+    <string name="game13">January 19 vs Concord University - Away at 5:30 PM</string>
+    <string name="game14">January 22 vs West Virginia State University - Home at 2:00 PM</string>
+    <string name="game15">January 24 vs Davis and Elkins College - Home at 5:30 PM</string>
+    <string name="game16">Janaury 26 vs Frostburg State University - Home at 5:30 PM</string>
+    <string name="game17">January 29 vs Fairmont State University - Away at 2:00 PM</string>
+    <string name="game18">January 31 vs Alderson Broaddus University - Home at 5:30 PM</string>
+    <string name="game19">February 2 vs Wheeling University - Away at 5:30 PM</string>
+    <string name="game20">February 5 vs West Liberty University - Home at 2:00 PM</string>
+    <string name="game21">February 7 vs Salem University - Home at 5:30 PM</string>
+    <string name="game22">February 9 vs West Virginia Wesleyan College - Home at 5:30 PM</string>
+    <string name="game23">February 12 vs Davis and Elkins College - Away ay 2:00 PM</string>
+    <string name="game24">February 14 vs West Virginia Wesleyan College - Away at 5:30 PM</string>
+    <string name="game25">February 16 vs Notre Dame College - Home at 5:30 PM</string>
+    <string name="game26">February 19 vs Alderson Broaddus University - Away at 2:00 PM</string>
+    <string name="game27">February 23 vs Glenville State College - Home at 5:30 PM</string>
+    <string name="game28">February 26 vs West Virginia State University - Away at 2:00 PM</string>
+    <string name="game29">March 3 vs West Virginia State University - Away at 6:00 PM</string>
+    <string name="game30">March 5 vs West Liberty University - Away at 2:30 PM</string>
+    <string name="game31">March 6 vs Glenville State College - Away at 2:00 PM</string>
+    <string name="game32">March 11 vs Kutztown University - Away at 12:00 PM</string>
+    <string name="game33">March 12 vs California University of Pennsylvania - Away at 2:00 PM</string>
+    <string name="game34">March 14 vs Glenville State College - Away at 2:30 PM</string>
+
+
+    <string name="coaching">Coaching Staff</string>
+    <string name="coach1">Head Coach Tianni Kelly from Pickerington, OH</string>
+    <string name="coach2">Assistant Coach Bubby Johnson from Maryland</string>
+    <string name="coach3">Manager Lauren Roush from Ripley, WV</string>
+    <string name="coach4">Student Assistant Embla Anderson from StockHolm, Sweden</string>
+
+    <string name="players">Players</string>
+
+    <string name="player1">#3 Shamiah Bridges - Junior from Picayune, MS - 5\'5\" Guard</string>
+    <string name="player2">#3 Alissa Crafton - Sophomore from Bear, DE - 5\'6\" Guard</string>
+    <string name="player3">#4 Anna Cardwell - Sophomore from Hamilton, OH - 5\'7\" Guard</string>
+    <string name="player4">#5 Anastasiia Zakharova - Graduate Student from Moscow, Russia - 5\'9\" Guard</string>
+    <string name="player5">#10 Markyia McCormick - Junior from Pickerington, OH - 5\'6\" Guard</string>
+    <string name="player6">#11 Maggie Stephenson - Senior from Houston, TX - 6\'3\" Forward</string>
+    <string name="player7">#12 Trinity Palacio - Junior from Alexandria, VA - 5\'4\" Guard</string>
+    <string name="player8">#13 Leilani Pickens - Freshman from Roanoke, VA - 5\'9\" Forward</string>
+    <string name="player9">#14 Dakota Reeves - Junior from Cincinnati, OH - 5\'7\" Guard</string>
+    <string name="player10">#15 Nakiyah BumGardner-Ferguson - Sophomore from Spotsylvania, VA - 5\'5\" Guard</string>
+    <string name="player11">#21 Abby Lee - Sophomore from Huntington, WV - 5\'8\" Guard</string>
+    <string name="player12">#22 Camryn Nadir - Sophomore from Dayton, OH - 5\'10\" Guard</string>
+    <string name="player13">#24 Clarrissa Francis - Junior from Lubbock, TX - 5\'10\" Forward</string>
+    <string name="player14">#30 Brionna McClinton - Freshman from Riverview, FL - 5\'9\" Guard</string>
+    <string name="player15">#34 Sierra Davis - Junior from Provo, UT - 6\'2\" Forward</string>
+    <string name="player16">#35 Jamia Nesmith - Freshman from Jacksonville, FL - 5\'11\" Forward</string>
+
+
+    <string name="play1">#2 Shamiah Bridges</string>
+    <string name="play2">#3 Alissa Crafton</string>
+    <string name="play3">#4 Anna Cardwell</string>
+    <string name="play4">#5 Anastasiia Zakharova</string>
+    <string name="play5">#10 Markyia McCormick</string>
+    <string name="play6">#11 Maggie Stephenson</string>
+    <string name="play7">#12 Trinity Palacio</string>
+    <string name="play8">#13 Leilani Pickens</string>
+    <string name="play9">#14 Dakota Reeves</string>
+    <string name="play10">#15 Nakiyah BumGardner-Ferguson</string>
+    <string name="play11">#21 Abby Lee</string>
+    <string name="play12">#22 Camryn Nadir</string>
+    <string name="play13">#24 Clarrissa Francis</string>
+    <string name="play14">#30 Brionna McClinton</string>
+    <string name="play15">#34 Sierra Davis</string>
+    <string name="play16">#35 Jamia Nesmith</string>
+
+
+</resources>

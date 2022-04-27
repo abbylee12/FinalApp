@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="40dp"
+        tools:context=".player14Info">
+
+        <ImageView
+            android:id="@+id/imageView15"
+            android:layout_width="116dp"
+            android:layout_height="149dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0"
+            app:srcCompat="@drawable/bri" />
+
+        <TextView
+            android:id="@+id/textView73"
+            android:layout_width="290dp"
+            android:layout_height="422dp"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:text="This was Brionna McClinton’s first year at UC, and this is what she has to say about the University: ‘I chose UC because I liked the idea of living in a different state that was completely different to what I am used to in Florida. I like how small the campus is and how quiet it is.’"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView15" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>
+
