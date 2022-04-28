@@ -13,7 +13,6 @@ class infoActivity : AppCompatActivity() {
         val actionBar = supportActionBar
 
         actionBar!!.title = "Player Information"
-
         actionBar.setDisplayHomeAsUpEnabled(true)
 
         val pla1: Button = findViewById(R.id.pla1)
